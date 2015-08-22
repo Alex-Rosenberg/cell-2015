@@ -5,4 +5,6 @@ In an effort to make my results reproducible and aid others in their own data an
 -Alex
 
 #### ipython notebooks
-[N1: Library Statistics](ipython.notebooks/Cell2015_N1_Library_Statistics.ipynb)
+[Notebook 1: Library Statistics](ipython.notebooks/Cell2015_N1_Library_Statistics.ipynb)
+[Notebook 2: Splice Site Analysis](ipython.notebooks/Cell2015_N2_Splice_Site_Analysis.ipynb)
+
