@@ -18,9 +18,6 @@ In an effort to make my results reproducible and aid others in their own data an
 [Notebook 11: Predicting the Effects of SNPs on Exon Skipping](ipython.notebooks/Cell2015_N11_Predicting_Cassette_Exon_SNP_Effects.ipynb)<br>
 
 
-[Notebook 3: Estimating Motif Effects](ipython.notebooks/Cell2015_N4_Motif_Effect_Sizes.ipynb)<br>
-
-
 
 
 
