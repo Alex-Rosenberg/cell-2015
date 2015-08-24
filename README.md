@@ -8,5 +8,21 @@ In an effort to make my results reproducible and aid others in their own data an
 [Notebook 1: Library Statistics](ipython.notebooks/Cell2015_N1_Library_Statistics.ipynb)<br>
 [Notebook 2: Splice Site Analysis](ipython.notebooks/Cell2015_N2_Splice_Site_Analysis.ipynb)<br>
 [Notebook 3: Splicing Frame and Nonsense Mediated Decay Analysis](ipython.notebooks/Cell2015_N3_A5SS_Splicing_Frame_Analysis.ipynb)<br>
+[Notebook 4: Estimating Motif Effects](ipython.notebooks/Cell2015_N4_Motif_Effect_Sizes.ipynb)<br>
+[Notebook 5: Combinatorial Motif Effects](ipython.notebooks/Cell2015_N5_Combinatorial_Motif_Effects.ipynb)<br>
+[Notebook 6: Learning Curves for Models Predicting Alt. 5SS Usage](ipython.notebooks/Cell2015_N6_A5SS_Model_Learning_Curves.ipynb)<br>
+[Notebook 7: A Model of Alternative 5\prime Splicing](ipython.notebooks/Cell2015_N6_A5SS_Model_Learning_Curves.ipynb)<br>
+[Notebook 8: Predictions on Alt. 5SS Events in the Genome](ipython.notebooks/Cell2015_N8_HAL_Genome_Predictions.ipynb)<br>
+[Notebook 9: Training a Joint Model with Both the Alt. 5SS and Alt. 3SS Libraries](ipython.notebooks/Cell2015_N9_Training_Joint_A5SS_A3SS_Model.ipynb)<br>
+[Notebook 10: Predicting the Effects of SNPs on Alternative 5\prime Splicing](ipython.notebooks/Cell2015_N10_A5SS_SNP_Predictions.ipynb)<br>
+[Notebook 11: Predicting the Effects of SNPs on Exon Skipping](ipython.notebooks/Cell2015_N11_Predicting_Cassette_Exon_SNP_Effects.ipynb)<br>
+
+
 [Notebook 3: Estimating Motif Effects](ipython.notebooks/Cell2015_N4_Motif_Effect_Sizes.ipynb)<br>
+
+
+
+
+
+
 
