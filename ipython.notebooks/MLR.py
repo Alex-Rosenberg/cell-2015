@@ -54,11 +54,17 @@ class MLR:
 		wfull = scipy.reshape(w_vector,((shape(X)[1]+1),shape(Y)[1]))
 		B = self.get_energy(X,wfull[:-1,:],wfull[-1,:])
 		G_pred = scipy.hstack(((exp(B).transpose()*X),scipy.sum(exp(B).transpose(),axis=1)))
+		
+		# Cross entropy:		
 		vv = scipy.sum(np.multiply(B,Y),axis=1)
+
+		# Calculate and subtract the entropy of Y to get kl-divergence
 		Ypl = log(Y)
 		Ypl[Y==0]=0
 		Ypl = np.multiply(Ypl,Y)
 		vv = vv-scipy.sum(Ypl,axis=1)
+
+		# Get the mean of the kl-divergence
 		V = sum(vv)/float(shape(X)[0])
 		G = np.array(Gobs-G_pred).transpose()
 		G = np.reshape(G,size(G))/float(shape(X)[0])
