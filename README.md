@@ -5,8 +5,8 @@ In an effort to make my results reproducible and aid others in their own data an
 -Alex
 
 #### ipython notebooks:
-[Notebook 0A: Fastq to Isoform Counts (Alt. 3SS)](ipython.notebooks/Cell2015_N0A_A3SS_Fastq_to_Spliced_Reads)<br>
-[Notebook 0B: Fastq to Isoform Counts (Alt. 5SS)](ipython.notebooks/Cell2015_N0B_A5SS_Fastq_to_Spliced_Reads)<br>
+[Notebook 0A: Fastq to Isoform Counts (Alt. 3SS)](ipython.notebooks/Cell2015_N0A_A3SS_Fastq_to_Spliced_Reads.ipynb)<br>
+[Notebook 0B: Fastq to Isoform Counts (Alt. 5SS)](ipython.notebooks/Cell2015_N0B_A5SS_Fastq_to_Spliced_Reads.ipynb)<br>
 [Notebook 1: Library Statistics](ipython.notebooks/Cell2015_N1_Library_Statistics.ipynb)<br>
 [Notebook 2: Splice Site Analysis](ipython.notebooks/Cell2015_N2_Splice_Site_Analysis.ipynb)<br>
 [Notebook 3: Splicing Frame and Nonsense Mediated Decay Analysis](ipython.notebooks/Cell2015_N3_A5SS_Splicing_Frame_Analysis.ipynb)<br>
