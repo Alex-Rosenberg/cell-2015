@@ -2,6 +2,9 @@ data/
 results/
 figures/
 ref/
+fastq/
+submission/
+
 ipython.notebooks/.ipynb_checkpoints/
 # Byte-compiled / optimized / DLL files
 __pycache__/
