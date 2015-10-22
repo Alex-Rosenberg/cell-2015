@@ -1,7 +1,9 @@
 data/
 doc/
 results/
-figures/
+figures/20150321.Schematics/
+figures/20150823_top/
+figures/20150601.ModelDiagrams/
 fastq/
 submission/
 ipython.notebooks/Cell2015_N12_Webtool_Files.ipynb
