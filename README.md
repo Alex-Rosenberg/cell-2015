@@ -2,9 +2,9 @@
 
 In an effort to make my results reproducible and aid others in their own data analysis, I've included all of the code used in the paper. I hope this will be useful and feel free to conact me with suggestions/comments/questions.
 
--Alex
+-Alex<br><br>
 If you want to work with the raw FASTQ files, you can download them from SRA. The links are in the [GEO page](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE74070). Put them into a folder called fastq and everything should work.<br>
-If you just want to work with the processed isoform counts, unzip all of the files in the data_gz folder/ and change the name of the folder to data/.
+If you just want to work with the processed isoform counts, unzip all of the files in the data_gz/ folder and change the name of the folder to data/.
 #### ipython notebooks:
 [Notebook 0A: Fastq to Isoform Counts (Alt. 3SS)](ipython.notebooks/Cell2015_N0A_A3SS_Fastq_to_Spliced_Reads.ipynb)<br>
 [Notebook 0B: Fastq to Isoform Counts (Alt. 5SS)](ipython.notebooks/Cell2015_N0B_A5SS_Fastq_to_Spliced_Reads.ipynb)<br>
