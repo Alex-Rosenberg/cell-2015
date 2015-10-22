@@ -2,9 +2,9 @@ data/
 doc/
 results/
 figures/
-ref/
 fastq/
 submission/
+ipython.notebooks/Cell2015_N12_Webtool_Files.ipynb
 
 ipython.notebooks/.ipynb_checkpoints/
 # Byte-compiled / optimized / DLL files
