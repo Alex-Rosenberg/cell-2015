@@ -9,6 +9,7 @@ Some of the intermediate results are very large, so I have not included them. Th
 
 The plasmid files from the paper are available in in the plasmids/ directory.<br>
 #### ipython notebooks:
+[Notebook 0: Download SRA Files and Convert to Fastq](ipython.notebooks/Cell2015_N0_Download_Fastq_Files.ipynb)<br>
 [Notebook 0A: Fastq to Isoform Counts (Alt. 3SS)](ipython.notebooks/Cell2015_N0A_A3SS_Fastq_to_Spliced_Reads.ipynb)<br>
 [Notebook 0B: Fastq to Isoform Counts (Alt. 5SS)](ipython.notebooks/Cell2015_N0B_A5SS_Fastq_to_Spliced_Reads.ipynb)<br>
 [Notebook 1: Library Statistics](ipython.notebooks/Cell2015_N1_Library_Statistics.ipynb)<br>
