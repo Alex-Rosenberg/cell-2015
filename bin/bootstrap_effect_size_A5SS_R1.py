@@ -32,11 +32,10 @@ data = sio.loadmat('../data/Reads.mat')
 A5SS_data = data['A5SS']
 A5SS_data = np.array(A5SS_data.todense())
 # Get minigenes with reads
-A5SS_nn = find(A5SS_data.sum(axis=1))
+A5SS_data = A5SS_data[:,44]/(A5SS_data[:,0]+ A5SS_data[:,44])
+A5SS_nn = pd.notnull(A5SS_data)
 A5SS_data = A5SS_data[A5SS_nn]
-A5SS_data = A5SS_data/A5SS_data.sum(axis=1)[:,newaxis]
 A5SS_seqs = pd.read_csv('../data/A5SS_Seqs.csv',index_col=0).Seq[A5SS_nn].values
-
 
 seqs = pd.Series(A5SS_seqs).str.slice(7,32)
 
